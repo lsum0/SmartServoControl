@@ -51,7 +51,7 @@ This flowchart describes the logical process of the servo motor control in the p
 
 
 
-![TowerPro SG90 Servo](TheServomotor.jpg)
+![Tower](TheServoMotor.jpg)
 
 The **TowerPro SG90 Micro Servo** is a lightweight, low-cost servo motor commonly used in robotics and motion-based DIY projects. It offers good torque and precision control through PWM signals, making it ideal for small robotic limbs and humanoid joints.
 
