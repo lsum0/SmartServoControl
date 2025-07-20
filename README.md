@@ -67,6 +67,8 @@ The **TowerPro SG90 Micro Servo** is a lightweight, low-cost servo motor commonl
 
 [TowerPro SG90 Servo](Thecomponent.jpg)
 
+![TowerPro SG90 Servo](Thecomponent.jpg)
+
 ### 🛠️ Common Applications:
 
 - Humanoid robots  
