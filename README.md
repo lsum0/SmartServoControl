@@ -31,7 +31,7 @@ An educational and hands-on project focused on controlling multiple servo motors
 
 ---
 
-##  3.System Flowchart :
+##  3. System Flowchart :
 
 This flowchart describes the logical process of the servo motor control in the program.
 
@@ -47,7 +47,7 @@ This flowchart describes the logical process of the servo motor control in the p
 
 ---
 
-##  4.SG90 Servo Motor Details : 
+##  4. SG90 Servo Motor Details : 
 
 
 
@@ -78,7 +78,7 @@ The **TowerPro SG90 Micro Servo** is a lightweight, low-cost servo motor commonl
 
 ---
 
-##  7.Arduino Code Overview :
+##  7. Arduino Code Overview :
 
 ```cpp
 #include <Servo.h>
