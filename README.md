@@ -9,7 +9,7 @@
 
 ---
 
-##  1.Project Overview :
+##   1. Project Overview :
 
 An educational and hands-on project focused on controlling multiple servo motors with an Arduino UNO. It aims to simulate robotic movement, especially for humanoid robots, using servo motor rotation logic.
 
@@ -19,7 +19,7 @@ An educational and hands-on project focused on controlling multiple servo motors
 
 ---
 
-##  2.Components Used 🧩 :
+##   2. Components Used 🧩 :
 
 | Component               | Quantity | Description                          |
 |------------------------|----------|--------------------------------------|
