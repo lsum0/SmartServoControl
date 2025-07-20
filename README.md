@@ -10,13 +10,13 @@ Below is a list of the real hardware used in this project:
 
 | Component                  | Quantity | Description                        |
 |----------------------------|----------|------------------------------------|
-| 🔵 Arduino UNO             | 1        | Microcontroller board              |
-| 🔌 Breadboard              | 1        | For power and signal distribution  |
-| 🔄 TowerPro SG90 Servo     | 5        | 180° micro servos                  |
-| ⚫ Jumper Wires (M-M)      | 10+      | For signal & power connections     |
-| 🔋 External 5V Power (opt) | 1        | Optional, for better torque        |
+|  Arduino UNO             | 1        | Microcontroller board                |
+|  Breadboard              | 1        | For power and signal distribution    |
+|  TowerPro SG90 Servo     | 5        | 180° micro servos                    |
+| Jumper Wires (M-M)       | 10+      | For signal & power connections       |
+| External 5V Power (opt)  | 1        | Optional, for better torque          |
 
-### 🖼️ Actual Project Setup Photo
+###  Actual Project Setup Photo :
 > This is the real photographed setup used in this project:
 
 ![Project Components and Wiring](ServoMotor.gif)
@@ -119,7 +119,7 @@ void loop()
 }
 ```
 ```Text
-### FlowChart
+### Project Structure 📂 :
 
 ServoMotor-Algorithm/
 ├── ServoMotor.ino          # Arduino code
