@@ -1,4 +1,4 @@
-# 🤖 ServoMotor – Multi-Servo Control System with Arduino UNO
+#  ServoMotor – Multi-Servo Control System with Arduino UNO 🤖 :
 
 ![Status](https://img.shields.io/badge/status-in_progress-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-UNO-blue)
@@ -9,7 +9,7 @@
 
 ---
 
-##  Project Overview :
+##  1.Project Overview :
 
 An educational and hands-on project focused on controlling multiple servo motors with an Arduino UNO. It aims to simulate robotic movement, especially for humanoid robots, using servo motor rotation logic.
 
@@ -19,7 +19,7 @@ An educational and hands-on project focused on controlling multiple servo motors
 
 ---
 
-##  Components Used 🧩 :
+##  2.Components Used 🧩 :
 
 | Component               | Quantity | Description                          |
 |------------------------|----------|--------------------------------------|
@@ -31,7 +31,7 @@ An educational and hands-on project focused on controlling multiple servo motors
 
 ---
 
-##  System Flowchart :
+##  3.System Flowchart :
 
 This flowchart describes the logical process of the servo motor control in the program.
 
@@ -47,7 +47,7 @@ This flowchart describes the logical process of the servo motor control in the p
 
 ---
 
-## ⚙️ SG90 Servo Motor Details
+##  4.SG90 Servo Motor Details : 
 
 
 
@@ -55,7 +55,7 @@ This flowchart describes the logical process of the servo motor control in the p
 
 The **TowerPro SG90 Micro Servo** is a lightweight, low-cost servo motor commonly used in robotics and motion-based DIY projects. It offers good torque and precision control through PWM signals, making it ideal for small robotic limbs and humanoid joints.
 
-### 📌 Specifications:
+### 5. Specifications:
 
 - **Operating Voltage:** 4.8V – 6.0V  
 - **Stall Torque:** ~1.8 kg/cm  
@@ -69,7 +69,7 @@ The **TowerPro SG90 Micro Servo** is a lightweight, low-cost servo motor commonl
 
 ![TowerPro SG90 Servo](Thecomponent.jpg)
 
-### 🛠️ Common Applications:
+### 6. Common Applications:
 
 - Humanoid robots  
 - Robotic arms & joints  
@@ -78,7 +78,7 @@ The **TowerPro SG90 Micro Servo** is a lightweight, low-cost servo motor commonl
 
 ---
 
-##  Arduino Code Overview :
+##  7.Arduino Code Overview :
 
 ```cpp
 #include <Servo.h>
@@ -129,3 +129,14 @@ void loop()
   }
   */
 }
+```
+8. Project Structure 📂 :
+
+```cpp
+ServoMotor-Algorithm/
+├── ServoMotor.ino          # Arduino code
+├── ServoMotor.gif          # Real wiring image
+├── flowchart.png           # Flowchart for algorithm
+├── servo.jpg               # Real SG90 photo
+└── README.md               # This file
+```
