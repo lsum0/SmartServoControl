@@ -1,4 +1,10 @@
 # 🤖 ServoMotor – Multi-Servo Control System with Arduino UNO
+![Status](https://img.shields.io/badge/status-in_progress-blue)
+![Arduino](https://img.shields.io/badge/Arduino-UNO-blue)
+![Servo](https://img.shields.io/badge/Servo-SG90-orange)
+![Language](https://img.shields.io/badge/Language-C++-brightgreen)
+![Simulation](https://img.shields.io/badge/Simulation-Tinkercad-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 An educational and practical project that demonstrates how to control multiple servo motors with an Arduino UNO using PWM pins. This guide includes the actual components used, wiring photo, logical flowchart, and a professional overview of the hardware.
 
